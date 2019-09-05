@@ -18,7 +18,7 @@
     "url": "https://github.com/No9/dtrace-streams/issues"
   },
   "dependencies": {
-    "dtrace-provider": "0.2.4",
+    "dtrace-provider": "0.8.8",
     "libdtrace": "0.0.3"
   },
   "devDependencies" : {
